@@ -14,3 +14,5 @@ cd antden.github.io
 git add *
 git commit -m u
 git push
+
+rm -rf antden.github.io
